@@ -1,6 +1,27 @@
-# 💫 Sobre mim:
-- 👋 Olá! Sou Jeferson Viana, um entusiasta do desenvolvimento fullstack com uma paixão por desafios e inovação. Embora minha jornada profissional esteja começando, minha jornada de aprendizado já é repleta de conquistas.<br>- 🌱 Minha formação na renomada escola Trybe me proporcionou uma base sólida, abrangendo desde os fundamentos básicos em desenvolvimento web até especializações em Python e certificações em Android (Kotlin) pela DIO. Durante meu percurso, mergulhei em mais de 30 projetos, todos disponíveis no meu GitHub, evidenciando meu compromisso com a prática e a constante busca por aprimoramento.<br> - 🌱 Minhas habilidades abrangem um amplo espectro, desde UNIX & BASH, Git, e DOM, até tecnologias como React, Redux, Node.js, Docker, e MySQL. Além disso, sou familiarizado com práticas como testes unitários, arquitetura em camadas, REST, JWT, ORM, e SOLID, demonstrando uma abordagem abrangente e técnica para o desenvolvimento.<br> - 🌱 No lado das soft skills, minha comunicação eficaz, trabalho em equipe, e habilidades de organização são complementadas por uma mentalidade ágil, refletindo meu estilo de trabalho objetivo e ambicioso. Utilizo metodologias como Scrum e ferramentas como Trello para manter a eficiência, sempre mantendo um ambiente de trabalho otimista e alegre.<br> - 🌱 Além do código, tenho uma vida repleta de interesses, desde ler, resolver desafios do HackerRank, até desfrutar de momentos ao ar livre em cachoeiras e viagens. Estou comprometido não apenas em aprimorar minhas habilidades técnicas, mas também em me tornar um ativo valioso para as empresas. Em um horizonte de 12 meses, planejo alcançar fluência no inglês avançado, proporcionando uma comunicação eficiente em ambientes globais.<br>-  🌱 Estou determinado a ser reconhecido não apenas pelo meu conhecimento técnico, mas também pela minha capacidade de liderança e resolução eficaz de problemas.<br>-  🌱 Estou empolgado com a perspectiva de não apenas crescer individualmente, mas também contribuir para o crescimento sustentável da empresa que eu escolher fazer parte.
-- 👋 Se você procura um desenvolvedor fullstack comprometido, ágil e inovador, estou pronto para enfrentar os desafios e contribuir para o sucesso do seu projeto. Vamos criar algo incrível juntos! 🚀
+Desenvolvedor Full Stack apaixonado por transformar conhecimento em soluções práticas.
+
+🚀 Formação & Conquistas:
+
+Concluí com êxito a formação em Desenvolvimento Web Full-Stack pela Trybe, entregando mais de 40 projetos com 100% de aprovação e pontualidade. Fui reconhecido com o Selo "On Track" em Fundamentos, Selo de Colaboração e o prestigioso Prêmio Margaret Hamilton por excelência na entrega de projetos.
+
+💡 Minha Abordagem:
+
+Minha abordagem profissional é centrada na resolução de problemas e na entrega de soluções eficazes. Acredito na aprendizagem contínua e estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+
+🔧 Habilidades:
+
+Python, Javascript, React, Node.js, Docker, Typescript.
+Unix & Bash, Git & Github, DOM, HTML & CSS.
+Testes Unitários, Router, React Testing Library, Redux com React.
+Express, Testes de Integração, REST, Json Web Token.
+ORM com Sequelize, Deployment, POO, Princípios SOLID.
+Complexidade de Algoritmos, Estruturas de Dados.
+Pytest, Debugging no VS Code.
+Raspagem de Dados, APIs REST, Flask, Django, Django REST Framework, MongoDB, SSR.
+Metodologias Ágeis.
+🌐 Em Busca de Novas Oportunidades:
+Estou à procura de oportunidades empolgantes no desenvolvimento web, onde posso aplicar e aprimorar minhas habilidades em um ambiente desafiador e inovador.
+
 ## 🌐 Redes Sociais:
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonvlima/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonv28@gmail.com)
