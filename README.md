@@ -19,7 +19,9 @@ Complexidade de Algoritmos, Estruturas de Dados.
 Pytest, Debugging no VS Code.
 Raspagem de Dados, APIs REST, Flask, Django, Django REST Framework, MongoDB, SSR.
 Metodologias Ágeis.
+
 🌐 Em Busca de Novas Oportunidades:
+
 Estou à procura de oportunidades empolgantes no desenvolvimento web, onde posso aplicar e aprimorar minhas habilidades em um ambiente desafiador e inovador.
 
 ## 🌐 Redes Sociais:
